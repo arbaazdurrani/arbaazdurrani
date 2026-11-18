@@ -34,25 +34,27 @@ Currently exploring AI-assisted product development and building web and mobile 
 - Figma, Adobe XD, Photoshop, Illustrator
 - Product strategy, UX/UI, wireframes, and prototyping
 
-## Selected Projects
+## Selected Product Development Experience
 
-### PocketJob
-A service marketplace concept connecting people who need services with independent service providers.
+### Real-Time Job Marketplace
+A mobile-first platform designed to connect people looking for services with independent service providers, supporting job discovery, applications, messaging, and marketplace workflows.
 
-Technologies: React Native, Expo, Node.js, PostgreSQL, Supabase.
+**Technologies:** React Native, Expo, Node.js, PostgreSQL, Supabase.
 
-### DocMart
-A digital marketplace project focused on document-based products and services.
+### Digital Document Marketplace
+A web-based marketplace concept for discovering, purchasing, and managing digital documents and related services.
 
-Technologies: Nuxt 3, Vue 3, Node.js, Express.js, PostgreSQL, Prisma, Stripe.
+**Technologies:** Vue.js, Nuxt 3, Node.js, Express.js, PostgreSQL, Prisma, Stripe.
 
-### Scavigo
-A product currently in development.
+### Location-Based Interactive Gaming Platform
+A mobile application concept built around location-aware exploration, interactive challenges, and real-world scavenger hunt experiences.
 
-### A2Z-GIS
-A mobile application project using React Native.
+**Technologies:** React Native and related mobile development tools.
 
-*These projects are in development. Details and access to source code may be limited while the projects are being developed.*
+### Family Organization Platform
+A digital platform concept focused on helping families organize information, activities, and shared responsibilities.
+
+**Technologies:** Web and mobile application development.
 
 ## My Approach
 
